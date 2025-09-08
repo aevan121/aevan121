@@ -1,4 +1,5 @@
 ## Hi there 👋
+Hello, I'm a Junior studying Computer Science at UNC-Charlotte. I am passionate about learning how to code different programs and working on coding projects.
 
 <!--
 **aevan121/aevan121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
